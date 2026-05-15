@@ -1,2 +1,2 @@
-# four_in_a_row
-four in a row - a text based adventure game
+# four in a row - a text based adventure game
+a short text based adventure game for a school project
